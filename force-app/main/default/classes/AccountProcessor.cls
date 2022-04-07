@@ -1,6 +1,6 @@
 public class AccountProcessor {
     
-    
+    //smaple comment
     @future 
     public static void countContacts(List<Id> ids)
     {
